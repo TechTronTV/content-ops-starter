@@ -464,7 +464,8 @@ sections:
           work, plan to work with him in the future thanks so much!"
         tagline: Testimonial 3
         subtitle: 'PayFPS, Content Creator'
-        text: ''
+        text: |
+          Client Ordered A "2D Banner"
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
