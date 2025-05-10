@@ -7,7 +7,7 @@ sections:
       text: Welcome To Techs Kavern
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Graphic & Web Design
     text: "Unlimited Fixes\_included with every order, you will not leave until we exceed your expectations\n"
     actions:
       - label: Get started
