@@ -521,7 +521,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Why were different
       color: text-primary
       styles:
         self:
