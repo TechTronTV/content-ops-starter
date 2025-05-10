@@ -85,8 +85,8 @@ sections:
       - title: '2'
         subtitle: The Work Itself
         text: >
-          Our work is top-notch. We don’t submit for review until every detail
-          is perfect, ensuring a polished result that exceeds expectations.
+          **Our work is top-notch. We don’t submit for review until every detail
+          is perfect, ensuring a polished result that exceeds expectations.**
         image:
           url: /images/icon2.svg
           altText: Featured icon two
