@@ -529,7 +529,7 @@ sections:
       type: TitleBlock
     subtitle: How We are Unique
     items:
-      - title: Feature Item One
+      - title: Unlimited Fixes
         tagline: Guranteed Satisfaction
         subtitle: This is the item subtitle
         text: |
