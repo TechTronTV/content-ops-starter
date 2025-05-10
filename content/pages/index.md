@@ -682,11 +682,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: To Get Started
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Interested in any of our services? Fill out the form to inquire and our
+      staff will get back to you as soon as possible. We are active 7 days a
+      week
     media:
       fields:
         - name: name
