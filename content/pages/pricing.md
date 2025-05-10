@@ -16,7 +16,7 @@ sections:
         details: Unlimited Fixes Included
         description: ''
         features:
-          - '2D Logo: $19.99'
+          - 'Logo: $19.99'
           - '2D Animated Logo: $23'
           - '2D Banner: $16'
           - 2D Anim
