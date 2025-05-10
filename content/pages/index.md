@@ -427,7 +427,8 @@ sections:
         type: FeaturedItem
       - title: >-
           "Henry has been a great asset to my business. He is always prompt and
-          up for and up for the task. I would reccomend Henry to any business 
+          up for and up for the task. I would reccomend Henry to any business
+          that wants to 
         tagline: Testimonial 2
         subtitle: 'Armen Kirakosian, CEO of Ultimate Auto Group'
         text: |
