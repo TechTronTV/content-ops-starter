@@ -12,7 +12,7 @@ sections:
     subtitle: One Time Fee. Life Time Satisfaction
     plans:
       - title: Graphic Design
-        price: GFX
+        price: 2D
         details: Unlimited Fixes Included
         description: ''
         features:
