@@ -16,7 +16,7 @@ sections:
         details: Unlimited Fixes Included
         description: ''
         features:
-          - Feature one
+          - '2D Logo: '
           - Feature two
           - Feature three
           - Feature four
