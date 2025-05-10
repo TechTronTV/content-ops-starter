@@ -50,7 +50,7 @@ sections:
         features:
           - 'Logo: $30'
           - 'Banner: $35'
-          - ''
+          - 'Intro: Varied'
           - 'Thumbnail: $50'
           - 'Animated Logo: $40'
           - 'Animated Banner: $50'
