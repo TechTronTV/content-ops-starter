@@ -41,7 +41,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Video Editing
+      - title: Advanced Graphic Design
         price: Varied
         details: per month
         description: >-
