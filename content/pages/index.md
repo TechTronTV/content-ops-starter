@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Techs Kavern
+      label: Graphic Design & Web Design
       color: text-primary
       type: Badge
     elementId: ''
