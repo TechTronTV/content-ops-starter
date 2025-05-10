@@ -170,18 +170,21 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Grow your business the right way
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Make Your Website Stand Out
+    text: >+
+      <div style="text-align: center">Our team brings nearly a decade of website
+      design experience and is dedicated to your success. How do we guarantee
+      this? We’re made up of industry veterans, including a professional product
+      photographer, an experienced web builder, and a skilled graphic designer.
+      We deliver unique, custom websites that capture attention, enhance user
+      experience, and convert visitors into sales.</div>
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
