@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: One Time Fee. Life Time Satisfaction
     plans:
       - title: Developers
         price: Free
