@@ -459,9 +459,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          100/10, absolutely love my banner, was amazing to work with and
+          "100/10, absolutely love my banner, was amazing to work with and
           listened to my ideas on how i wanted everything done, very amazing
-          work, plan to work with him in the future thanks so much!
+          work, plan to work with him in the future thanks so much!"
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
