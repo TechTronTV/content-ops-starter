@@ -110,10 +110,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Efficiency
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We understand that urgency matters and speed is crucial in every
+          aspect of your project. That's why we offer fast turnaround times, and
+          for even quicker delivery, we also provide expedited services.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
