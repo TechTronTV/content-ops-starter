@@ -13,7 +13,7 @@ sections:
     plans:
       - title: For Creators
         price: GFX
-        details: No credit card required
+        details: Unlimited Fixes Included
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
