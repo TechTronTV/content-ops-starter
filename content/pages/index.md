@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Why Techs Kavern?
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 500k
