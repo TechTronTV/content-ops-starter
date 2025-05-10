@@ -106,7 +106,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: '3'
         subtitle: Efficiency
         text: >
           We know speed matters, so we offer fast turnaround times and expedited
