@@ -579,7 +579,7 @@ sections:
         type: FeaturedItem
       - title: We Never Close
         tagline: Always Open
-        subtitle: This is the item subtitle
+        subtitle: Time Crunch? We Are Open
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
