@@ -30,7 +30,7 @@ sections:
         type: Link
     media:
       url: /images/TK Render.PNG
-      altText: Unblock your team boost your time to production preview
+      altText: Techs Kavern
       elementId: ''
       type: ImageBlock
     elementId: ''
