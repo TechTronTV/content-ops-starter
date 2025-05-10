@@ -73,7 +73,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Web Design
+      - title: Website Design
         price: Custom
         details: per month
         description: >-
