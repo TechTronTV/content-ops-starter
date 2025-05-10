@@ -42,7 +42,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Advanced Graphic Design
-        price: Varied
+        price: 3D
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
