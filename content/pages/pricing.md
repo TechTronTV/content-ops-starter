@@ -51,7 +51,7 @@ sections:
           - 'Banner: $35'
           - 'Thumbnail: $50'
           - 'Animated Logo: $40'
-          - ''
+          - 'Animated Banner:'
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
