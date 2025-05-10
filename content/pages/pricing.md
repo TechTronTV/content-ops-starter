@@ -49,7 +49,7 @@ sections:
         features:
           - 'Logo: $30'
           - 'Banner: $35'
-          - Feature three
+          - 'Thumbnail: $50'
           - Feature four
         image:
           url: /images/abstract-feature2.svg
