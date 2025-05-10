@@ -16,8 +16,8 @@ sections:
         details: Unlimited Fixes Included
         description: ''
         features:
-          - 'Intro: Varied'
           - 'Logo: $20'
+          - 'Intro: Varied'
           - 'Banner: $16'
           - 'Thumbnail: $18'
           - ' Animated Logo: $23'
