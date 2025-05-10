@@ -17,7 +17,7 @@ sections:
         description: ''
         features:
           - '2D Logo: $19.99'
-          - '2D Animated Banner: $23'
+          - '2D Animated Logo: $23'
           - Feature three
           - Feature four
         image:
