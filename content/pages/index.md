@@ -465,7 +465,7 @@ sections:
         tagline: Testimonial 3
         subtitle: 'PayFPS, Content Creator'
         text: |
-          Client Ordered A "2D Banner"
+          Product: 2D Banner
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
