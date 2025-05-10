@@ -14,9 +14,7 @@ sections:
       - title: Graphic Design
         price: GFX
         details: Unlimited Fixes Included
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: ''
         features:
           - Feature one
           - Feature two
