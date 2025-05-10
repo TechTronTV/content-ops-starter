@@ -110,9 +110,8 @@ sections:
       - title: 200%
         subtitle: Efficiency
         text: >
-          We understand that urgency matters and speed is crucial in every
-          aspect of your project. That's why we offer fast turnaround times, and
-          for even quicker delivery, we also provide expedited services.
+          We know speed matters, so we offer fast turnaround times and expedited
+          services for even quicker delivery.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
