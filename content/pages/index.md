@@ -29,8 +29,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/TK Render.PNG
+      altText: Techs Kavern
       elementId: ''
       type: ImageBlock
     elementId: ''
@@ -52,15 +52,15 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Why Techs Kavern?
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: '1'
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We've worked with dozens of clients, ranging from creators to
+          businesses. We adapt quickly and won’t stop until we fully understand
+          and deliver exactly what you want.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -83,12 +83,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: '2'
+        subtitle: The Work Itself
+        text: >
+          The quality of our work is top-notch. If even a single pixel is off,
+          we won’t submit the product for final review until it’s complete. We
+          guarantee a polished result that will exceed your expectations.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -109,11 +109,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Efficiency
+        text: >
+          We understand that urgency matters and speed is crucial in every
+          aspect of your project. That's why we offer fast turnaround times, and
+          for even quicker delivery, we also provide expedited services.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -134,7 +134,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /pricing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -192,25 +192,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -269,49 +250,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Social Media Management
       color: text-dark
@@ -583,19 +521,20 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Why We're Different
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: What Makes Us Unique?
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Unlimited Fixes
+        tagline: Guranteed Satisfaction
+        subtitle: Bring Your Visions To Reality
+        text: >
+          With a one time fee, we will continue working on your project until
+          you are satisfied (terms and conditions apply).
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -614,11 +553,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Freestyle For Free
+        tagline: Unique Creativity
+        subtitle: Stuck? Request Freestyle
+        text: >
+          Not sure exactly what you want? We are known for our ability to
+          freestyle and deliver exactly what you're looking for in the end.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -637,12 +577,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: We Never Close
+        tagline: Always Open
+        subtitle: Time Crunch? We Are Open
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          We are open seven days a week and ready to take on any project you
+          need. If you're under a time crunch, we offer expedited services to
+          meet your deadlines.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
