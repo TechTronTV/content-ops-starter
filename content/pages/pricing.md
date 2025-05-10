@@ -75,7 +75,7 @@ sections:
         type: PricingPlan
       - title: Website Design
         price: Custom
-        details: per month
+        details: Unlimited Fixes Included
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
