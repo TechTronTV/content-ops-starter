@@ -47,7 +47,7 @@ sections:
         details: Unlimited Fixes Included
         description: ''
         features:
-          - Feature one
+          - 'Logo:'
           - Feature two
           - Feature three
           - Feature four
