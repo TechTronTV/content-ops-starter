@@ -3,31 +3,31 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Our Pricing
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: One Time Fee. Life Time Satisfaction
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Standard Graphic Design + VFX
+        price: 2D
+        details: Unlimited Fixes Included
+        description: ''
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 'Logo: $20'
+          - 'Banner: $16'
+          - 'Intro: Varied'
+          - 'Thumbnail: $18'
+          - ' Animated Logo: $23'
+          - 'Animated Banner: $20'
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Contact Us
             url: /
             icon: arrowRight
             iconPosition: right
@@ -43,23 +43,23 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Advanced Graphic Design + VFX
+        price: 3D
+        details: Unlimited Fixes Included
+        description: ''
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 'Logo: $30'
+          - 'Banner: $35'
+          - 'Intro: Varied'
+          - 'Thumbnail: $50'
+          - 'Animated Logo: $40'
+          - 'Animated Banner: $50'
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Contact Us
             url: /
             icon: arrowRight
             iconPosition: right
@@ -75,18 +75,16 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - title: Website Design
+        price: 2D + 3D
+        details: Unlimited Fixes Included
+        description: "It is said that \"there are websites worth more than skyscrapers.\" The design and quality of your website could be the difference between you getting the sale\_or not.\_\n\_\n"
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Unlimited Pages
+          - Creative Configuration
+          - Search Engine Optimized
+          - Monthly Management On Call
+          - '$10,000 + In Revenue From Scratch'
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
