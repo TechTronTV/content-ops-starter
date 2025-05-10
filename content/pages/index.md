@@ -490,7 +490,7 @@ sections:
           "10 out of 10. He did an excellent job bringing my idea to life for my
           logo. I love all of his work and can't wait to order from him again!"
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Iris, Content Creator'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
