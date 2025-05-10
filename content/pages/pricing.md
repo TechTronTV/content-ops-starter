@@ -19,7 +19,7 @@ sections:
           - 'Logo: $19.99'
           - ' Animated Logo: $23'
           - 'Banner: $16'
-          - 'Animated Banner: '
+          - 'Animated Banner: $19.99'
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
