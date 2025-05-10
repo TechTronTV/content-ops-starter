@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: One Time Fee. Life Time Satisfaction
     plans:
-      - title: Developers
+      - title: For Creators
         price: Free
         details: No credit card required
         description: >-
