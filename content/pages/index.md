@@ -426,9 +426,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Henry has been a great asset to my business. He is always prompt and
-          up for and up for the task. I would reccomend Henry to any business
-          that wants to grow rapidly and build their social media business"
+          "Henry has been a valuable asset to my business. He is consistently
+          prompt and eager to take on any task. I highly recommend Henry to any
+          business looking to grow rapidly and enhance their social media
+          presence."
         tagline: Testimonial 2
         subtitle: 'Armen Kirakosian, CEO of Ultimate Auto Group'
         text: |
