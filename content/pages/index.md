@@ -741,5 +741,6 @@ seo:
   metaDescription: The only source you will need for your Graphic & Web Design needs
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
