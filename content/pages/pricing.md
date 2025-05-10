@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: One Time Fee. Life Time Satisfaction
     plans:
-      - title: For All
+      - title: Graphic Design
         price: GFX
         details: Unlimited Fixes Included
         description: >-
