@@ -527,7 +527,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: How We are Unique
+    subtitle: How We Are Unique
     items:
       - title: Unlimited Fixes
         tagline: Guranteed Satisfaction
