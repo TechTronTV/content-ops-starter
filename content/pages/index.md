@@ -581,8 +581,9 @@ sections:
         tagline: Always Open
         subtitle: Time Crunch? We Are Open
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          We are open seven days a week and ready to take on any project you
+          need. If you're under a time crunch, we offer expedited services to
+          meet your deadlines.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
