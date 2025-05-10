@@ -402,10 +402,8 @@ sections:
           artist and touches his customers to the core when he makes his art."
         tagline: Testimonial 1
         subtitle: 'JordyOT, Esports Owner'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Product: 3D Intro
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
