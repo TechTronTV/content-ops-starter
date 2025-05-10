@@ -109,8 +109,8 @@ sections:
       - title: '3'
         subtitle: Efficiency
         text: >
-          We know speed matters, so we offer fast turnaround times and expedited
-          services for even quicker delivery.
+          **We know speed matters, so we offer fast turnaround times and
+          expedited services for even quicker delivery.**
         image:
           url: /images/icon3.svg
           altText: Featured icon three
