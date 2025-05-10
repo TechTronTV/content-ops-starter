@@ -29,7 +29,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/TK Render.PNG
+      url: /images/hero3.svg
       altText: Techs Kavern
       elementId: ''
       type: ImageBlock
