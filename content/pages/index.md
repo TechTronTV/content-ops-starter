@@ -463,7 +463,7 @@ sections:
           listened to my ideas on how i wanted everything done, very amazing
           work, plan to work with him in the future thanks so much!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'PayFPS, Content Creator'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
