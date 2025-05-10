@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Welcome To Techs Kavern
-      color: text-primary
+      color: text-dark
       type: TitleBlock
     subtitle: Graphic & Web Design
     text: "Unlimited Fixes\_included with every order, you will not leave until we exceed your expectations\n"
