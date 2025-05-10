@@ -58,7 +58,7 @@ sections:
         title: '1'
         subtitle: Numbers Done
         text: >
-          We've worked with dozens of clients, ranging from content creators to
+          We've worked with dozens of clients, ranging from creators to
           businesses. We adapt quickly and won’t stop until we fully understand
           and deliver exactly what you want.
         actions: []
