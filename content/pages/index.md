@@ -398,9 +398,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          ChatGPT said:"100 out of 10. He did everything I asked for in the
-          intro. A highly skilled artist who creates art that deeply resonates
-          with his customers."
+          "100 out of 10. He did everything I asked for in the intro. A highly
+          skilled artist who creates art that deeply resonates with his
+          customers."
         tagline: Testimonial 1
         subtitle: 'JordyOT, Esports Owner'
         text: |
