@@ -79,7 +79,7 @@ sections:
         description: "It is said that \"there are websites worth more than skyscrapers.\" The design and quality of your website could be the difference between you getting the sale\_or not.\_\n\_\n"
         features:
           - Unlimited Pages
-          - Feature two
+          - Creative Configuration
           - Feature three
           - Feature four
           - Feature five
