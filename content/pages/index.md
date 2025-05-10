@@ -521,10 +521,8 @@ sections:
           out to him to get your work done!"
         tagline: Testimonial 5
         subtitle: 'Aizen, Professional COD Player '
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Product: 2D Intro
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
