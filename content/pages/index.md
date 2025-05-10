@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Graphic Design & Web Design
+      label: Graphic Design & Web Desig
       color: text-primary
       type: Badge
     elementId: ''
