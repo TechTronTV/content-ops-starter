@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome To Techs Kavern
+      text: Techs Kavern
       color: text-dark
       type: TitleBlock
     subtitle: Graphic & Web Design
@@ -19,7 +19,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Past Work
         altText: ''
         url: /
         showIcon: true
@@ -737,8 +737,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home - Techs Kavern
+  metaDescription: The only source you will need for your Graphic & Web Design needs
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
