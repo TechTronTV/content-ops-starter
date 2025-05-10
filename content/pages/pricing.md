@@ -74,7 +74,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Website Design
-        price: Custom
+        price: 2D + 3D
         details: Unlimited Fixes Included
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
