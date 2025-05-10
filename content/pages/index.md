@@ -85,10 +85,10 @@ sections:
               borderRadius: x-large
       - title: '2'
         subtitle: The Work Itself
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The quality of our work is top-notch. If even a single pixel is off,
+          we won’t submit the product for final review until it’s complete. We
+          guarantee a polished result that will exceed your expectations.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
