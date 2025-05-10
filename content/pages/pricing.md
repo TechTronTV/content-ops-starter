@@ -20,6 +20,7 @@ sections:
           - 'Banner: $16'
           - ' Animated Logo: $23'
           - 'Animated Banner: $19.99'
+          - ''
           - 'Thumbnail: $18'
         image:
           url: /images/abstract-feature1.svg
