@@ -57,10 +57,10 @@ sections:
       - type: FeaturedItem
         title: '1'
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We have worked with dozens of clients, ranging from content creators
+          to businesses. We adapt quickly and won’t stop until we fully
+          understand and deliver exactly what you want.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
