@@ -398,9 +398,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          100/10, absolutely love my banner, was amazing to work with and
-          listened to my ideas on how i wanted everything done, very amazing
-          work, plan to work with him in the future thanks so much!
+          100/10 did everything that i asked for in the intro, highly skilled
+          artist and touches his customers to the core when he makes his art."
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
