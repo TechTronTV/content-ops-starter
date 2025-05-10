@@ -177,13 +177,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: >
-      Our team brings nearly a decade of website design experience and is
-      dedicated to your success. How do we guarantee this? We’re made up of
-      industry veterans, including a professional product photographer, an
-      experienced web builder, and a skilled graphic designer. We deliver
-      unique, custom websites that capture attention, enhance user experience,
-      and convert visitors into sales. 
+    text: >+
+      <div style="text-align: center">Our team brings nearly a decade of website
+      design experience and is dedicated to your success. How do we guarantee
+      this? We’re made up of industry veterans, including a professional product
+      photographer, an experienced web builder, and a skilled graphic designer.
+      We deliver unique, custom websites that capture attention, enhance user
+      experience, and convert visitors into sales.</div>
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
