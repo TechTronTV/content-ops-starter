@@ -17,8 +17,8 @@ sections:
         description: ''
         features:
           - 'Logo: $20'
-          - 'Intro: Varied'
           - 'Banner: $16'
+          - 'Intro: Varied'
           - 'Thumbnail: $18'
           - ' Animated Logo: $23'
           - 'Animated Banner: $20'
