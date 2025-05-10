@@ -531,7 +531,7 @@ sections:
     items:
       - title: Unlimited Fixes
         tagline: Guranteed Satisfaction
-        subtitle: This is the item subtitle
+        subtitle: Bring Your Visions To Reality
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
