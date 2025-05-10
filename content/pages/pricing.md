@@ -16,7 +16,7 @@ sections:
         details: Unlimited Fixes Included
         description: ''
         features:
-          - '2D Logo: '
+          - '2D Logo: $19.99'
           - Feature two
           - Feature three
           - Feature four
