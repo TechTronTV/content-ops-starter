@@ -76,9 +76,7 @@ sections:
       - title: Website Design
         price: 2D + 3D
         details: Unlimited Fixes Included
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: "It is said that \"there are websites worth more than skyscrapers.\" The design and quality of your website could be the difference between you getting the sale\_or not.\_People are lazy, and if your website doesn't make it easy for a lazy person to coordinate through it, then it is poorly designed.\_ Our team has done extensive research in Search Engine Optimization and psychology and can develop a website that will turn a maybe into a confirmed purchase.\_\n\_\n"
         features:
           - Feature one
           - Feature two
