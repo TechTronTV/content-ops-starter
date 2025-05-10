@@ -12,7 +12,7 @@ sections:
     subtitle: One Time Fee. Life Time Satisfaction
     plans:
       - title: For Creators
-        price: Graphic Design
+        price: GFX
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
