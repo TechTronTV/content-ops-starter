@@ -23,7 +23,7 @@
         {
             "label": "Past Work",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/pastwork",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
