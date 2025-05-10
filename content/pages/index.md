@@ -425,7 +425,9 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '"Henry has been a great asset to my business. He is always prompt'
+      - title: >-
+          "Henry has been a great asset to my business. He is always prompt and
+          up for
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
