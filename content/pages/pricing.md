@@ -48,7 +48,7 @@ sections:
         description: ''
         features:
           - 'Logo: $30'
-          - Feature two
+          - 'Banner:'
           - Feature three
           - Feature four
         image:
