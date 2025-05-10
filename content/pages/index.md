@@ -457,9 +457,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "100/10, absolutely love my banner, was amazing to work with and
-          listened to my ideas on how i wanted everything done, very amazing
-          work, plan to work with him in the future thanks so much!"
+          "100 out of 10. I absolutely love my banner! It was a pleasure working
+          with him, and he listened to my ideas on how I wanted everything done.
+          The work is incredible, and I plan to collaborate with him again in
+          the future. Thank you so much!"
         tagline: Testimonial 3
         subtitle: 'PayFPS, Content Creator'
         text: |
