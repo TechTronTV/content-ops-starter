@@ -86,9 +86,8 @@ sections:
       - title: '2'
         subtitle: The Work Itself
         text: >
-          The quality of our work is top-notch. If even a single pixel is off,
-          we won’t submit the product for final review until it’s complete. We
-          guarantee a polished result that will exceed your expectations.
+          Our work is top-notch. We don’t submit for review until every detail
+          is perfect, ensuring a polished result that exceeds expectations.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
