@@ -81,7 +81,7 @@ sections:
           - Unlimited Pages
           - Creative Configuration
           - Search Engine Optimized
-          - Feature four
+          - Monthly Management On Call
           - Feature five
         image:
           url: /images/abstract-feature3.svg
