@@ -398,14 +398,12 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "100/10 did everything that i asked for in the intro, highly skilled
+          artist and touches his customers to the core when he makes his art."
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'JordyOT, Esports Owner'
+        text: |
+          Product: 3D Intro
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -428,14 +426,12 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Henry has been a great asset to my business. He is always prompt and
+          up for
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'Armen Kirakosian, CEO of Ultimate Auto Group'
+        text: |
+          Product: Website Design
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
@@ -458,14 +454,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "100/10, absolutely love my banner, was amazing to work with and
+          listened to my ideas on how i wanted everything done, very amazing
+          work, plan to work with him in the future thanks so much!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 'PayFPS, Content Creator'
+        text: |
+          Product: 2D Banner
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -678,15 +673,14 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Contact Us
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: To Get Started
+    text: >
+      Interested in any of our services? Fill out the form to inquire and our
+      staff will get back to you as soon as possible. We are active 7 days a
+      week
     media:
       fields:
         - name: name
@@ -731,7 +725,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -741,5 +735,6 @@ seo:
   metaDescription: The only source you will need for your Graphic & Web Design needs
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
