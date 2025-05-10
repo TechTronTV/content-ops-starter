@@ -42,7 +42,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Advanced Graphic Design
+      - title: Advanced Graphic Design + VFX
         price: 3D
         details: Unlimited Fixes Included
         description: ''
