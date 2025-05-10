@@ -58,9 +58,8 @@ sections:
         title: '1'
         subtitle: Numbers Done
         text: >
-          We've worked with dozens of clients, ranging from creators to
-          businesses. We adapt quickly and won’t stop until we fully understand
-          and deliver exactly what you want.
+          We've worked with dozens of clients, from creators to businesses. We
+          adapt fast and stay committed until we deliver exactly what you need.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -86,9 +85,8 @@ sections:
       - title: '2'
         subtitle: The Work Itself
         text: >
-          The quality of our work is top-notch. If even a single pixel is off,
-          we won’t submit the product for final review until it’s complete. We
-          guarantee a polished result that will exceed your expectations.
+          Our work is top-notch. We don’t submit for review until every detail
+          is perfect, ensuring a polished result that exceeds expectations.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -111,9 +109,8 @@ sections:
       - title: 200%
         subtitle: Efficiency
         text: >
-          We understand that urgency matters and speed is crucial in every
-          aspect of your project. That's why we offer fast turnaround times, and
-          for even quicker delivery, we also provide expedited services.
+          We know speed matters, so we offer fast turnaround times and expedited
+          services for even quicker delivery.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
