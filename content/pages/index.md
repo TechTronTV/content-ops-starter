@@ -521,7 +521,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Why were different
+      text: Why Were Different
       color: text-primary
       styles:
         self:
