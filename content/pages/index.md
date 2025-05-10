@@ -183,7 +183,7 @@ sections:
       industry veterans, including a professional product photographer, an
       experienced web builder, and a skilled graphic designer. Together, we
       deliver unique, custom websites that capture attention, enhance user
-      experience, and convert visitors into sales.
+      experience, and convert visitors into sales. Join us in the Kavern today!
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
