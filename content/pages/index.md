@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome To Techs Kavern
+      text: Techs Kavern
       color: text-dark
       type: TitleBlock
     subtitle: Graphic & Web Design
