@@ -176,7 +176,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Make Your Website Stand Out
     text: >+
       <div style="text-align: center">Our team brings nearly a decade of website
       design experience and is dedicated to your success. How do we guarantee
