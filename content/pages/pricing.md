@@ -80,7 +80,7 @@ sections:
         features:
           - Unlimited Pages
           - Creative Configuration
-          - Feature three
+          - Search Engine Optimized
           - Feature four
           - Feature five
         image:
