@@ -557,8 +557,8 @@ sections:
         tagline: Unique Creativity
         subtitle: Stuck? Request Freestyle
         text: >
-          "Not sure exactly what you want? We are known for our ability to
-          freestyle and deliver exactly what you're looking for in the end."
+          Not sure exactly what you want? We are known for our ability to
+          freestyle and deliver exactly what you're looking for in the end.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
