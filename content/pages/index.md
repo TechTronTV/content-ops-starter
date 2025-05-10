@@ -58,8 +58,9 @@ sections:
         title: '1'
         subtitle: Numbers Done
         text: >
-          We've worked with dozens of clients, from creators to businesses. We
-          adapt fast and stay committed until we deliver exactly what you need.
+          **We've worked with dozens of clients, from creators to businesses. We
+          adapt fast and stay committed until we deliver exactly what you
+          need.**
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -85,8 +86,8 @@ sections:
       - title: '2'
         subtitle: The Work Itself
         text: >
-          Our work is top-notch. We don’t submit for review until every detail
-          is perfect, ensuring a polished result that exceeds expectations.
+          **Our work is top-notch. We don’t submit for review until every detail
+          is perfect, ensuring a polished result that exceeds expectations.**
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -106,11 +107,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: '3'
         subtitle: Efficiency
         text: >
-          We know speed matters, so we offer fast turnaround times and expedited
-          services for even quicker delivery.
+          **We know speed matters, so we offer fast turnaround times and
+          expedited services for even quicker delivery.**
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -158,37 +159,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
