@@ -487,8 +487,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "10 out of 10. He did an excellent job bringing my idea to life for my
+          logo. I love all of his work and can't wait to order from him again!"
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
