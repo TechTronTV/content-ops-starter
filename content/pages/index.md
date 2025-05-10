@@ -533,8 +533,8 @@ sections:
         tagline: Guranteed Satisfaction
         subtitle: Bring Your Visions To Reality
         text: >
-          With a one time fee, we will not stop working on your project until
-          you tell us so (terms and conditions apply)
+          With a one time fee, we will continue working on your project until
+          you are satisfied (terms and conditions apply).
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
