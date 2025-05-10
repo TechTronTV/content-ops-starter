@@ -555,7 +555,7 @@ sections:
         type: FeaturedItem
       - title: Freestyle For Free
         tagline: Unique Creativity
-        subtitle: This is the item subtitle
+        subtitle: Stuck? Request Freestyle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
