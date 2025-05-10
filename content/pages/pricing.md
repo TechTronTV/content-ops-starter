@@ -82,7 +82,7 @@ sections:
           - Creative Configuration
           - Search Engine Optimized
           - Monthly Management On Call
-          - Feature five
+          - '$10,000 + In revenue from scratch'
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
