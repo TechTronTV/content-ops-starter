@@ -47,7 +47,7 @@ sections:
         details: Unlimited Fixes Included
         description: ''
         features:
-          - 'Logo:'
+          - 'Logo: $30'
           - Feature two
           - Feature three
           - Feature four
