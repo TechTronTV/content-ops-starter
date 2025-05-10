@@ -18,7 +18,7 @@ sections:
         features:
           - '2D Logo: $19.99'
           - '2D Animated Logo: $23'
-          - 2D Banner
+          - '2D Banner: '
           - Feature four
         image:
           url: /images/abstract-feature1.svg
