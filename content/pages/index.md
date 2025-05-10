@@ -491,10 +491,8 @@ sections:
           logo. I love all of his work and can't wait to order from him again!"
         tagline: Testimonial 4
         subtitle: 'Iris, Content Creator'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Product: 3D Logo
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
