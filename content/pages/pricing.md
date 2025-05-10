@@ -50,7 +50,7 @@ sections:
           - 'Logo: $30'
           - 'Banner: $35'
           - 'Thumbnail: $50'
-          - Feature four
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
