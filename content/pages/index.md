@@ -553,7 +553,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Freestyle For Free
         tagline: Unique Creativity
         subtitle: This is the item subtitle
         text: |
