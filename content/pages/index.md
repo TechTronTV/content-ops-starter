@@ -738,7 +738,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Techs Kavern
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: The only source you will need for your Graphic & Web Design needs
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
