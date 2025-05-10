@@ -520,7 +520,7 @@ sections:
           10 for sure. It's my favorite of what he's done for me so far. Reach
           out to him to get your work done!"
         tagline: Testimonial 5
-        subtitle: 'Aizen, Professinal '
+        subtitle: 'Aizen, Professional COD Player '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
