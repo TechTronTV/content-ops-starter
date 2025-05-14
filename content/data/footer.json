@@ -40,7 +40,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
