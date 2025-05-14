@@ -361,7 +361,7 @@ sections:
         text: |
           Product: 2D Intro
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: Maria Walters
           styles:
             self:
