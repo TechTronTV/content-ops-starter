@@ -37,14 +37,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
