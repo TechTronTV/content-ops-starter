@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Home",
             "altText": "",
@@ -30,6 +22,14 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "Pricing",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Past Work",
