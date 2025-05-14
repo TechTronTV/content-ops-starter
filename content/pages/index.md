@@ -331,7 +331,7 @@ sections:
         text: |
           Product: 3D Logo
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: Maria Walters
           styles:
             self:
