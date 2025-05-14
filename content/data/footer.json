@@ -30,7 +30,7 @@
         "title": "Quick Pages",
         "links": [
             {
-                "label": "Careers",
+                "label": "Home",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
