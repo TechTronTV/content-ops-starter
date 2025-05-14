@@ -31,7 +31,7 @@
         "links": [
             {
                 "label": "Home",
-                "altText": "careers page",
+                "altText": "",
                 "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
