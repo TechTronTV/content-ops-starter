@@ -13,6 +13,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "Home",
+            "altText": "",
+            "url": "/Home",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Pricing",
             "url": "/pricing",
             "icon": "arrowRight",
