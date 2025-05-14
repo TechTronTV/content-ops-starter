@@ -22,7 +22,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Home",
             "altText": "",
             "url": "/Home",
             "showIcon": false,
