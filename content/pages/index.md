@@ -21,7 +21,7 @@ sections:
         type: Button
       - label: Past Work
         altText: ''
-        url: /
+        url: /pastwork
         showIcon: true
         icon: arrowRight
         iconPosition: right
