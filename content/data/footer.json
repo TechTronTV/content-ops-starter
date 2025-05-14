@@ -17,7 +17,7 @@
             },
             {
                 "label": "Past Work",
-                "url": "/",
+                "url": "/pastwork",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
