@@ -491,7 +491,7 @@ sections:
     subtitle: To Get Started
     text: >
       Interested in any of our services? Fill out the form to inquire and our
-      staff will get back to you as soon as possible. We are active 7 days a
+      staff will get back to you as soon as possible. We are online 7 days a
       week
     media:
       fields:
