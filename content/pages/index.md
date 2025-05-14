@@ -21,7 +21,7 @@ sections:
         type: Button
       - label: Past Work
         altText: ''
-        url: /
+        url: /pastwork
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -273,7 +273,7 @@ sections:
         text: |
           Product: Website Design
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: John Doe
           styles:
             self:
@@ -303,7 +303,7 @@ sections:
         text: |
           Product: 2D Banner
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: Maria Walters
           styles:
             self:
@@ -331,7 +331,7 @@ sections:
         text: |
           Product: 3D Logo
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: Maria Walters
           styles:
             self:
@@ -361,7 +361,7 @@ sections:
         text: |
           Product: 2D Intro
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: Maria Walters
           styles:
             self:
@@ -369,36 +369,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
