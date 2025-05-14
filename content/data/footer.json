@@ -8,15 +8,6 @@
         "title": "Product",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "icon": "arrowRight",
@@ -25,8 +16,8 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Past Work",
+                "url": "/pastwork",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -59,12 +50,6 @@
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
         {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
