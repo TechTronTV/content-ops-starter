@@ -273,7 +273,7 @@ sections:
         text: |
           Product: Website Design
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar1.svg
           altText: John Doe
           styles:
             self:
