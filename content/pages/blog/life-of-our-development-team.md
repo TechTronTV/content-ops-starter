@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: ''
 slug: life-of-our-development-team
 date: ''
 excerpt: >-
