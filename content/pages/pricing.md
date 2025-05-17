@@ -27,12 +27,6 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Contact Us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
           - type: Button
             label: Order Now
             altText: ''
@@ -42,6 +36,12 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+          - label: Contact Us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            type: Button
         colors: bg-neutral-fg-dark
         styles:
           self:
