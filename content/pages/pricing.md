@@ -69,7 +69,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Order Now
             altText: ''
             url: '/https://discord.gg/wGqTST5dy9'
             showIcon: false
