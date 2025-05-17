@@ -108,6 +108,15 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: '/https://discord.gg/wGqTST5dy9'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
           - label: Contact us
             url: /
             icon: arrowRight
