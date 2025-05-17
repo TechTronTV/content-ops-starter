@@ -10,7 +10,7 @@ sections:
     subtitle: Graphic & Web Design
     text: "Unlimited Fixes\_included with every order, you will not leave until we exceed your expectations\n"
     actions:
-      - label: Get started
+      - label: What We Offer
         altText: ''
         url: /pricing
         showIcon: false
