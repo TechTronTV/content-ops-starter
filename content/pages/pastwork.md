@@ -49,7 +49,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://vimeo.com/1085270432?share=copy'
+      url: ''
       autoplay: true
       loop: true
       muted: true
