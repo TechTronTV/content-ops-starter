@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/MisFire Preview 1.png
+  url: /images/Exile Logo V4.png
   altText: Thumbnail
   type: ImageBlock
   styles:
