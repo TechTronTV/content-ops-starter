@@ -49,8 +49,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        file:///Users/henryveniaminov/Desktop/Aizen%202D%20Team%20Intro%20Finale.mp4
+      url: ''
       autoplay: true
       loop: true
       muted: true
