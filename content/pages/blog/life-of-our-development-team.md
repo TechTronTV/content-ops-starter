@@ -2,7 +2,10 @@
 title: ''
 slug: life-of-our-development-team
 date: ''
-excerpt: ''
+excerpt: >-
+  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
+  earum corporis id Quis esse est galisum officiis accusantium enim et
+  asperiores dolore
 featuredImage:
   url: /images/Exile Logo V4.png
   altText: Thumbnail
