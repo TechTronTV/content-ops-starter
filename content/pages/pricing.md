@@ -33,6 +33,15 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
+          - type: Button
+            label: Get started
+            altText: ''
+            url: '/https://discord.gg/wGqTST5dy9'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
