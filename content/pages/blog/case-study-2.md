@@ -4,7 +4,6 @@ slug: case-study-2
 date: '2022-02-16'
 excerpt: ''
 featuredImage:
-  url: /images/Paralysis 3D Logo.avif
   altText: Case study 2
   styles:
     self:
