@@ -4,7 +4,7 @@ slug: life-of-our-development-team
 date: ''
 excerpt: ''
 featuredImage:
-  url: /images/Paralysis 3D Logo.avif
+  url: /images/Exile Logo V4.png
   altText: Thumbnail
   type: ImageBlock
   styles:
