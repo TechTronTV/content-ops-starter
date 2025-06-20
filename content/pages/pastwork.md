@@ -34,7 +34,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Past Work
+      text: ''
       color: text-dark
       styles:
         self:
