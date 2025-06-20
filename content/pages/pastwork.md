@@ -15,7 +15,6 @@ sections:
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
       - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
     showThumbnail: true
     showExcerpt: true
     showDate: false
