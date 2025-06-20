@@ -4,7 +4,7 @@ slug: life-of-our-development-team
 date: ''
 excerpt: ''
 featuredImage:
-  url: /images/5e00cc_3e2379a598c5473a81302428b645b421~mv2.avif
+  url: /images/Exile Logo V4.png
   altText: Thumbnail
   type: ImageBlock
   styles:
