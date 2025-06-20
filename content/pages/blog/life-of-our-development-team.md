@@ -4,7 +4,7 @@ slug: life-of-our-development-team
 date: ''
 excerpt: ''
 featuredImage:
-  url: /images/Dance City.avif
+  url: /images/5e00cc_3e2379a598c5473a81302428b645b421~mv2.avif
   altText: Thumbnail
   type: ImageBlock
   styles:
